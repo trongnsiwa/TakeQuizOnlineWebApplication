@@ -1,13 +1,13 @@
-<h1 align="center">Take Quiz Online</h1>
+<h1 align="center">:white_check_mark: Take Quiz Online :white_check_mark:</h1>
 
-## Description 
+## :pencil2: Description 
 - A java web app that allows students to take a quiz made by teachers.
 
 <p align="center">
   <img  src="./readme_assets/Logo.png">
 </p>
 
-## Technicals
+## :computer: Technicals
 - Java Web Application
 - Java Servlet and JSP service
 - Apache Tomcat 8.0.27.0
