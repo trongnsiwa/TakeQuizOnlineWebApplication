@@ -20,17 +20,17 @@
 
 ## **Login page**
 <p align="center">
-  <img  src="./readme_assets/Login.png" width="70%">
+  <img  src="./readme_assets/Login.png">
 </p>
 
 ## **Admin page**
 <p align="center">
-  <img  src="./readme_assets/Admin.png" width="70%">
+  <img  src="./readme_assets/Admin.png">
 </p>
 
 ## **Student page**
 <p align="center">
-  <img  src="./readme_assets/Student.png" width="70%">
+  <img  src="./readme_assets/Student.png">
 </p>
 
 ***
